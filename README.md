@@ -54,3 +54,9 @@ npm run check-scenarios  # 学習シナリオが想定の操作で完了でき�
 
 `main` ブランチへの push で `.github/workflows/deploy.yml` がビルドし、GitHub Pages に公開します。
 初回はリポジトリの **Settings → Pages → Build and deployment → Source** を **GitHub Actions** にしてください。
+
+## ライセンス
+
+[MIT License](./LICENSE) © 2026 Kento Watanabe
+
+本ソフトウェアは無保証で提供されます。教育目的のシミュレーションであり、臨床判断に使用しないでください。
